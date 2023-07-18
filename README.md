@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mondapa
+- 👋 Hi, I’m @mondapa Paulami Mondal
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on work opportunities
